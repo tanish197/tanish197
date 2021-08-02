@@ -1,5 +1,10 @@
-<h1 align=center> Hi there, I am Tanish Jain <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="50px"></h1>
+<h1 align=center> Hi Everyone <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="50px"></h1>
 <img align='right' src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="250">
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=15c534&width=380&height=45&lines=MY+NAME+IS+TANISH+JAIN+👋;;Welcome+To+My+Profile+🤗;;Nice+To+Meet+You+🤝&center=true"></a>
+</p> 
+
 
 - 🏫 I am a first year Undergrad persuing B.Tech in Information Technology at Malout Institute of Management and Information Technology.
 
