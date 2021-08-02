@@ -16,6 +16,6 @@
 
 ![Tanish's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=tanish197&theme=react-dark&hide_border=true&area=true)
 
-### <h2> Connect with me </h2>
+### <h1> Connect with me </h1>
 <a href="mailto:tanishjain190702@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/tanish-jain-340285144/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
