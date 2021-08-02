@@ -1,4 +1,4 @@
-<h1 align=center> Hi there, I am Tanish Jain <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="40px"></h1>
+<h1 align=center> Hi there, I am Tanish Jain <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="50px"></h1>
 <img align='right' src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="250">
 
 - 🏫 I am a first year Undergrad persuing B.Tech in Information Technology at Malout Institute of Management and Information Technology.
