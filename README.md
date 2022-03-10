@@ -31,5 +31,5 @@
 <a href="https://www.instagram.com/tanishj197" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 
-
+<h1>Github Contribution Grid Snake </h1>
 <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg">
