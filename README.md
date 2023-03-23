@@ -25,6 +25,8 @@
 
 ![Tanish's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=tanish197&theme=react-dark&hide_border=true&area=true)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=tanish197&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 <h1>Github Contribution Grid Snake </h1>
 <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg">
