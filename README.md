@@ -12,6 +12,38 @@
 
 - 🏫 I am a third year Undergrad persuing B.Tech in Information Technology at Malout Institute of Management and Information Technology.
 
+<br>
+<br>
+<hr> 
+
+### I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
+
+<p float="left">
+  <a href="https://python.org/" target="_blank" >
+    <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="90" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank" >
+    <img src="https://camo.mybb.com/3b0ea8608e85571e6932e1df30bedee889fcdee9/687474703a2f2f696d672d666f746b692e79616e6465782e72752f6765742f393330342f3138313435303535372e38652f305f61666532345f61323633336166395f6f7269672e676966"  height="65" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
+  </a>
+  <a href="https://www.jenkins.io/doc/" target="_blank" >
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png"  height="65" />
+  </a>
+  <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" />
+  </a>
+ </p>
+
+
+### DevOps
+
+ <p float="left">
+<a href="https://aws.amazon.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
+  </a>
+  </p
 
 <br /> <br />
 ## &#x1f4c8; GitHub Stats
