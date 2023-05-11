@@ -16,7 +16,7 @@
 <br>
 <hr> 
 
-### I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
+### I mostly work with these technologies. 🚀
 
 <p float="left">
   <a href="https://python.org/" target="_blank" >
