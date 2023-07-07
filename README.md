@@ -10,7 +10,7 @@
 </p> 
 
 
-- 🏫 I am a third year Undergrad persuing B.Tech in Information Technology at Malout Institute of Management and Information Technology.
+- 🏫 I am a final year Undergrad pursuing a B.Tech in Information Technology at Malout Institute of Management and Information Technology.
 
 <br>
 <br>
