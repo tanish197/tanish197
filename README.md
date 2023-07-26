@@ -61,7 +61,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=tanish197&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 <h1>Github Contribution Grid Snake </h1>
-<img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
 
 
 ### <h1> Connect with me </h1>
