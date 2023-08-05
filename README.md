@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=380&height=45&lines=MY+NAME+IS+TANISH+JAIN+👋&center=true"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFBF00&width=380&height=45&lines=MY+NAME+IS+TANISH+JAIN+👋&center=true"></a>
 </p>
 
 <h1 align=center> Hi Everyone <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="50px"></h1>
 <img align='right' src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="250">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=380&height=45&lines=Welcome+To+My+Profile+🤗&center=true"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFBF00&width=380&height=45&lines=Welcome+To+My+Profile+🤗&center=true"></a>
 </p> 
 
 
