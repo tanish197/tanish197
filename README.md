@@ -34,19 +34,14 @@
   <a href="https://developer.hashicorp.com/terraform/docs" target="_blank" >
     <img src="https://www.svgrepo.com/show/376353/terraform.svg"  height="65" />
   </a>
-  <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" />
+  <a href="https://miro.medium.com/v2/resize:fit:1280/1*3Es4F4WU-xr6SBoEFwvSmg.gif" target="_blank" >
+    <img src="https://miro.medium.com/v2/resize:fit:1280/1*3Es4F4WU-xr6SBoEFwvSmg.gif" height="70" />
+  </a>
+ <a href="https://d1.awsstatic.com/gamedev/Programs/OnRamp/gt-well-architected.4234ac16be6435d0ddd4ca693ea08106bc33de9f.png" target="_blank" >
+    <img src="https://d1.awsstatic.com/gamedev/Programs/OnRamp/gt-well-architected.4234ac16be6435d0ddd4ca693ea08106bc33de9f.png"  height="75" />
   </a>
  </p>
 
-
-### DevOps
-
- <p float="left">
-<a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
-  </a>
-  </p
 
 <br /> <br />
 ## &#x1f4c8; GitHub Stats
