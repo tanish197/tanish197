@@ -10,7 +10,7 @@
 </p> 
 
 
-- 🏫 <b> Grad crushing it in the cloud world </b> 
+- 🏫 <b> Grad crushing it in the cloud world </b> </br>
 As a passionate graduate with a strong foundation in cloud computing, I bring a fresh perspective and innovative ideas to the table. My experience in leveraging cloud solutions to drive efficiency and scalability equips me to tackle modern challenges in the tech landscape. I'm eager to contribute to forward-thinking projects and collaborate with teams to transform visions into reality.
 
 
